@@ -1,7 +1,5 @@
 package com.example;
 
-import com.example.viewmodel.FooViewModel;
-
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;

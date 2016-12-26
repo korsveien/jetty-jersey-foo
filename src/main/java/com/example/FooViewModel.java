@@ -1,4 +1,4 @@
-package com.example.viewmodel;
+package com.example;
 
 public class FooViewModel {
     public int id;
